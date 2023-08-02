@@ -9,15 +9,20 @@ Stock prices are volatile in nature and price depends on various factors. The ma
 ## Screenshots
 
 ### Home Page
-![Home](README/homepage.jpg)
+![homepage](https://github.com/Rajalakshmih/Stock-Market-Analysis-using-LSTM/assets/141210581/bbf88486-91bc-4150-9082-c11b4d8cab3e)
+
 <br /><br />
 
 ### Training Page
-![Training](README/training.jpg)
+
+![training](https://github.com/Rajalakshmih/Stock-Market-Analysis-using-LSTM/assets/141210581/f8cbe096-5451-4012-b2d9-bc25c26728bc)
+
 <br /><br />
 
+
 ### Predictions Page
-![Predictions](README/predictions.jpg)
+
+![predictions](https://github.com/Rajalakshmih/Stock-Market-Analysis-using-LSTM/assets/141210581/82f1ee92-1e7c-41bf-8d41-0ddea9fe59e9)
 
 ## Execution Steps
 
