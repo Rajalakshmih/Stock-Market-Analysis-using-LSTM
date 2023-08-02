@@ -30,4 +30,4 @@ Execution steps are mentioned in this [pdf](./ExecutionSteps.pdf)
 
 ## Publications
 
-Published a Journal in Mukt Shabd [[Link]](https://app.box.com/s/szpa0vb4geuio3giq03icuf53lkwordc)
+Published a Journal in IJIRMET[[Link]](https://ijirmet.com/vol8/2023/issue3/7.pdf)
